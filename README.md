@@ -15,7 +15,7 @@ npm start
 Then, load [`http://localhost:8080`](http://localhost:8080) in your browser
 ## This game is heavily modified to meet some of the collision requirements and other environment variables 
 
-**ORIGINAL BASE CODE REPOSITORY IS DOWN BELOW**
+**ORIGINAL BASE CODE REPOSITORY **
 https://github.com/aframevr/a-blast/blob/master/README.md
 
 ## Working on 3D model converter to 2D converter will put up the repo link soon 
