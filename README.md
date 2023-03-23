@@ -8,7 +8,6 @@ A WebVR FPS mini-game demo using  [Mozilla VR](http://mozvr.com).
 ## Local Development
 
 ```bash
-git clone git@github.com:aframevr/a-blast && cd a-blast
 npm install
 npm start
 ```
